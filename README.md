@@ -26,6 +26,6 @@ If you are interested to sync the task in dropbox/google drive, you can set a cu
  
  Example File path
  ```bash
-export TASK_DB_FILE_PATH=/home/thedevsaddam/Dropbox  # default file name will be .task.json
-export TASK_DB_FILE_PATH=/home/thedevsaddam/Dropbox/mytasks.json
+export TASK_DB_FILE_PATH=/Users/thedevsaddam/Dropbox  # default file name will be .task.json
+export TASK_DB_FILE_PATH=/Users/thedevsaddam/mytasks.json
 ```
